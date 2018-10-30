@@ -1,6 +1,6 @@
 # 723RBCW9
 This is the BASH HW by Brita
-***
+
 So this is the course *From Newbies for Newbies: BASH* 
 ## BASH! WHY BASH?
 So to answer to this question I have gathered some information and created a small video on Youtube:
