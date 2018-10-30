@@ -9,7 +9,12 @@ So to answer to this question I have gathered some information and created a sma
 
 
 ## FILES AND DIRECTORIES
-I have an idea I will put here, ...to be continued on tuesday
+I have an idea I will put here, some code on echo'ing to file, probably .txt file. And creating directory where to put it.
+Prepared some slides, will show code in action with the same online BASH tool that was used in the class.
+Video will come.
+
+
+...to be continued
 
 ## EDITING (?)
 Not quite sure about this yet :)
