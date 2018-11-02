@@ -113,7 +113,7 @@ drwxr-xr-x 3 root root  4 Nov  2 16:53 ..
 drwxr-xr-x 2 root root  2 Nov  2 16:46 Brita
 -rw-r--r-- 1 root root 40 Nov  2 16:49 Teksts.txt
 -rw-r--r-- 1 root root  0 Nov  2 16:49 Teksts2.txt
-```bash
+```
 
 
 
