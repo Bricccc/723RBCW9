@@ -11,11 +11,11 @@ So to answer to this question I have gathered some information and created a sma
 ## FILES AND DIRECTORIES
 Files and Directories are slightly looked at in this video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qw-JPsR6_aQ" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qw-JPsR6_aQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The scenario for this demo is to show how to create directories and files (basic txt files) and to show how to navigate through these directories and something more.  
 
-```
+```bash
 $ whoami
 root
 $ tree
@@ -113,7 +113,7 @@ drwxr-xr-x 3 root root  4 Nov  2 16:53 ..
 drwxr-xr-x 2 root root  2 Nov  2 16:46 Brita
 -rw-r--r-- 1 root root 40 Nov  2 16:49 Teksts.txt
 -rw-r--r-- 1 root root  0 Nov  2 16:49 Teksts2.txt
-```
+```bash
 
 
 
