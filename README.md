@@ -15,7 +15,7 @@ Files and Directories are slightly looked at in this video:
 
 The scenario for this demo is to show how to create directories and files (basic txt files) and to show how to navigate through these directories and something more.  
 
-```console
+```sh
 $ whoami
 root
 $ tree
