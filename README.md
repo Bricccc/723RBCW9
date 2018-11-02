@@ -15,7 +15,7 @@ Files and Directories are slightly looked at in this video:
 
 The scenario for this demo is to show how to create directories and files (basic txt files) and to show how to navigate through these directories and something more.  
 
-```sh
+```{r, engine='bash', lines}
 $ whoami
 root
 $ tree
@@ -56,8 +56,6 @@ $ tree
 4 directories, 0 files
 $ cd First/Second/Third
 $ echo "Tekstinjsh" > Teksts.txt
-$ can Teksts.txt
-bash: can: command not found
 $ ls -la
 total 2
 drwxr-xr-x 3 root root  4 Nov  2 16:47 .
