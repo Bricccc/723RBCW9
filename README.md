@@ -11,7 +11,7 @@ So to answer to this question I have gathered some information and created a sma
 ## FILES AND DIRECTORIES
 Files and Directories are slightly looked at in this video:
 
-<iframe width="560" height="315" src="https://youtu.be/qw-JPsR6_aQ" ></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qw-JPsR6_aQ" ></iframe>
 
 The scenario for this demo is to show how to create directories and files (basic txt files) and to show how to navigate through these directories and something more.  
 
